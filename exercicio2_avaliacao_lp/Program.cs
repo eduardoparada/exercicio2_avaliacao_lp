@@ -18,6 +18,7 @@ namespace exercicio2_avaliacao_lp
             //A relação das cidades é a seguinte: 1 – Atibaia || 2 – Bragança Paulista || 3 – Mairiporã
             //4 – Nazaré || 5 – Terra Preta  || 6 – Extrema || 7 – Vargem
             //Requisitos: Criar uma função para converter a data em extenso.
+            // Eduardo Augusto Nilson Parada    RA 6322529
 
             string cidade = null, dataextenso;
             int dia, mes, ano, cod_cidade;
